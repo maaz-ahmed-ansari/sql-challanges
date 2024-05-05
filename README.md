@@ -16,5 +16,7 @@
 #### Difficulty Level : Medium
 
 | ID | Challenge | Solution Script |
+|:------:|------------|:---------:|
 | 01 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/submissions/1248846400/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Medium/01_Confirmation_Rate.sql)
 | 02 | [Completed Shipments](https://www.interviewquery.com/questions/completed-shipments) | [Solution](Scripts/Medium/02_Completed_Shipments.sql)
+| 03 | [Top Three Salaries](https://www.interviewquery.com/questions/top-three-salaries) | [Solution](Scripts/Medium/03-top-three-salaries.sql)
