@@ -1,4 +1,6 @@
-# sql-challanges
+# Overview 
+
+This repository contains solution for the SQL challenges posted on [Leetcode](https://leetcode.com/), [DataLemur](https://datalemur.com?referralCode=6bIgM0Po) and [Interview Query](https://www.interviewquery.com/)  website. The solution queries are executed on the integrated PostgreSQL environment on the same website.
 
 #### Difficulty Level : Easy
 
@@ -23,3 +25,4 @@
 | 03 | [Top Three Salaries](https://www.interviewquery.com/questions/top-three-salaries) | [Solution](Scripts/Medium/03-top-three-salaries.sql)
 | 04 | [Random SQL Sample](https://www.interviewquery.com/questions/random-sql-sample) | [Solution](Scripts/Medium/04-random-sql-sample.sql)
 | 05 | [Employee Salaries](https://www.interviewquery.com/questions/employee-salaries) | [Solution](Scripts/Medium/05-employee-salaries.sql)
+| 06 | [User's Third Transaction [Uber SQL Interview Question]](https://datalemur.com/questions/sql-third-transaction) | [Solution](Scripts/Medium/06-sql-third-transaction.sql)
