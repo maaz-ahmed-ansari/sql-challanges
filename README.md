@@ -21,3 +21,4 @@
 | 02 | [Completed Shipments](https://www.interviewquery.com/questions/completed-shipments) | [Solution](Scripts/Medium/02_Completed_Shipments.sql)
 | 03 | [Top Three Salaries](https://www.interviewquery.com/questions/top-three-salaries) | [Solution](Scripts/Medium/03-top-three-salaries.sql)
 | 04 | [Random SQL Sample](https://www.interviewquery.com/questions/random-sql-sample) | [Solution](Scripts/Medium/04-random-sql-sample.sql)
+| 05 | [Employee Salaries](https://www.interviewquery.com/questions/employee-salaries) | [Solution](Scripts/Medium/05-employee-salaries.sql)
