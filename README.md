@@ -8,3 +8,4 @@
 | 04 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/04_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql)
 | 05 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/05_Rising_Temperature.sql)
 | 06 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/06_Average_Time_of_Process_per_Machine.sql)
+| 07 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/editorial/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/07_Employee_Bonus.sql)
