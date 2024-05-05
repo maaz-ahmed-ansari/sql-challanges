@@ -12,6 +12,7 @@
 | 06 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/06_Average_Time_of_Process_per_Machine.sql)
 | 07 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/editorial/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/07_Employee_Bonus.sql)
 | 08 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/submissions/1248811595/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/08_Students_and_Examinations.sql)
+| 09 | [Histogram of Tweets [Twitter SQL Interview Question]](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](Scripts/Easy/09-sql-histogram-tweets.sql)
 
 #### Difficulty Level : Medium
 
