@@ -16,6 +16,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 08 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/submissions/1248811595/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/08_Students_and_Examinations.sql) | Must Do
 | 09 | [Histogram of Tweets [Twitter SQL Interview Question]](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](Scripts/Easy/09-sql-histogram-tweets.sql) |
 | 10 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/10-not-boring-movies.sql) |
+| 11 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/11-average-selling-price.sql) | Must Do
 
 #### Difficulty Level : Medium
 
