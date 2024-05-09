@@ -31,3 +31,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 06 | [User's Third Transaction [Uber SQL Interview Question]](https://datalemur.com/questions/sql-third-transaction) | [Solution](Scripts/Medium/06-sql-third-transaction.sql) |
 | 07 | [Sending vs. Opening Snaps [Snapchat SQL Interview Question]](https://datalemur.com/questions/time-spent-snaps) | [Solution](Scripts/Medium/07-time-spent-snaps.sql) | Must Do
 | 08 | [Highest-Grossing Items [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-highest-grossing) | [Solution](Scripts/Medium/08-sql-highest-grossing.sql) | Must Do
+| 09 | [Supercloud Customer [Microsoft SQL Interview Question]](https://datalemur.com/questions/supercloud-customer) | [Solution](Scripts/Medium/09-supercloud-customer.sql) | Must Do
