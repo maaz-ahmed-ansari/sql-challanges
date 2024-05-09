@@ -30,3 +30,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 05 | [Employee Salaries](https://www.interviewquery.com/questions/employee-salaries) | [Solution](Scripts/Medium/05-employee-salaries.sql) |
 | 06 | [User's Third Transaction [Uber SQL Interview Question]](https://datalemur.com/questions/sql-third-transaction) | [Solution](Scripts/Medium/06-sql-third-transaction.sql) |
 | 07 | [Sending vs. Opening Snaps [Snapchat SQL Interview Question]](https://datalemur.com/questions/time-spent-snaps) | [Solution](Scripts/Medium/07-time-spent-snaps.sql) | Must Do
+| 08 | [Highest-Grossing Items [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-highest-grossing) | [Solution](Scripts/Medium/08-sql-highest-grossing.sql) 
