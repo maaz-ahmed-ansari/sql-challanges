@@ -34,3 +34,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 09 | [Supercloud Customer [Microsoft SQL Interview Question]](https://datalemur.com/questions/supercloud-customer) | [Solution](Scripts/Medium/09-supercloud-customer.sql) | Must Do
 | 10 | [Top 5 Artists [Spotify SQL Interview Question]](https://datalemur.com/questions/top-fans-rank) | [Solution](Scripts/Medium/10-top-fans-rank.sql) | Must Do 
 | 11 | [Signup Activation Rate [TikTok SQL Interview Question]](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](Scripts/Medium/11-signup-confirmation-rate.sql) | Must Do 
+| 12 | [Odd and Even Measurements [Google SQL Interview Question]](https://datalemur.com/questions/odd-even-measurements) | [Solution](Scripts/Medium/12-odd-even-measurements.sql) | Must Do
