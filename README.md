@@ -39,3 +39,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 14 | [Compressed Mode [Alibaba SQL Interview Question]](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](Scripts/Medium/14-alibaba-compressed-mode.sql) | 
 | 15 | [Card Launch Success [JPMorgan Chase SQL Interview Question]](https://datalemur.com/questions/card-launch-success) | [Solution](Scripts/Medium/15-card-launch-success.sql) | 
 | 16 | [Patient Support Analysis (Part 2) [UnitedHealth SQL Interview Question]](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](Scripts/Medium/16-uncategorized-calls-percentage.sql) |
+| 17 | [FAANG Stock Min-Max (Part 1) [Bloomberg SQL Interview Question]](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1) | [Solution](Scripts/Medium/17-sql-bloomberg-stock-min-max-1.sql) | Must Do
