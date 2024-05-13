@@ -37,3 +37,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 12 | [Odd and Even Measurements [Google SQL Interview Question]](https://datalemur.com/questions/odd-even-measurements) | [Solution](Scripts/Medium/12-odd-even-measurements.sql) | Must Do
 | 13 | [Histogram of Users and Purchases [Walmart SQL Interview Question]](https://datalemur.com/questions/histogram-users-purchases) | [Solution](Scripts/Medium/13-histogram-users-purchases.sql) | Must Do
 | 14 | [Compressed Mode [Alibaba SQL Interview Question]](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](Scripts/Medium/14-alibaba-compressed-mode.sql) | 
+| 15 | [Card Launch Success [JPMorgan Chase SQL Interview Question]](https://datalemur.com/questions/card-launch-success) | [Solution](Scripts/Medium/15-card-launch-success.sql) | 
