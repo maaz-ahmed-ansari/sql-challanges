@@ -18,6 +18,8 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 10 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/10-not-boring-movies.sql) |
 | 11 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/11-average-selling-price.sql) | Must Do
 | 12 | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | [Solution](Scripts/Easy/12-project-employees-i.sql) |
+| 13 | [Unfinished Parts [Tesla SQL Interview Question]](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](Scripts/Easy/13-tesla-unfinished-parts.sql) |
+| 14 | [Laptop vs. Mobile Viewership [New York Times SQL Interview Question]](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](Scripts/Easy/14-laptop-mobile-viewership.sql) | Must Do
 
 #### Difficulty Level : Medium
 
