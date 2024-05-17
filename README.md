@@ -23,7 +23,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 15 | [Average Post Hiatus (Part 1) [Facebook SQL Interview Question]](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](Scripts/Easy/15-sql-average-post-hiatus-1.sql) | Must Do
 | 16 | [Teams Power Users [Microsoft SQL Interview Question]](https://datalemur.com/questions/teams-power-users) | [Solution](Scripts/Easy/16-teams-power-users.sql) | 
 | 17 | [Duplicate Job Listings [Linkedin SQL Interview Question]](https://datalemur.com/questions/duplicate-job-listings) | [Solution](Scripts/Easy/17-duplicate-job-listings.sql) | Must Do
-
+| 18 | [Cities With Completed Trades [Robinhood SQL Interview Question]](https://datalemur.com/questions/completed-trades) | [Solution](Scripts/Easy/18-completed-trades.sql) | Must Do
 #### Difficulty Level : Medium
 
 | ID | Challenge | Solution Script | Remark |
