@@ -24,6 +24,9 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 16 | [Teams Power Users [Microsoft SQL Interview Question]](https://datalemur.com/questions/teams-power-users) | [Solution](Scripts/Easy/16-teams-power-users.sql) | 
 | 17 | [Duplicate Job Listings [Linkedin SQL Interview Question]](https://datalemur.com/questions/duplicate-job-listings) | [Solution](Scripts/Easy/17-duplicate-job-listings.sql) | Must Do
 | 18 | [Cities With Completed Trades [Robinhood SQL Interview Question]](https://datalemur.com/questions/completed-trades) | [Solution](Scripts/Easy/18-completed-trades.sql) | Must Do
+| 19 | [Average Review Ratings [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](Scripts/Easy/19-sql-avg-review-rating.sql) | 
+
+
 #### Difficulty Level : Medium
 
 | ID | Challenge | Solution Script | Remark |
