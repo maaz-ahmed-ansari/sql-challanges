@@ -28,6 +28,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 20 | [App Click-through Rate (CTR) [Facebook SQL Interview Question]](https://datalemur.com/questions/click-through-rate) | [Solution](Scripts/Easy/20-click-through-rate.sql) | 
 | 21 | [Second Day Confirmation [TikTok SQL Interview Question]](https://datalemur.com/questions/second-day-confirmation) | [Solution](Scripts/Easy/21-second-day-confirmation.sql) | 
 | 22 | [Cards Issued Difference [JPMorgan Chase SQL Interview Question]](https://datalemur.com/questions/cards-issued-difference) | [Solution](Scripts/Easy/22-cards-issued-difference.sql) | 
+| 23 | [Compressed Mean [Alibaba SQL Interview Question]](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](Scripts/Easy/23-alibaba-compressed-mean.sql) |
 
 
 #### Difficulty Level : Medium
