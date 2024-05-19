@@ -32,6 +32,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 24 | [Pharmacy Analytics (Part 1) [CVS Health SQL Interview Question]](https://datalemur.com/questions/top-profitable-drugs) | [Solution](Scripts/Easy/24-top-profitable-drugs.sql) |
 | 25 | [Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]](https://datalemur.com/questions/non-profitable-drugs) | [Solution](Scripts/Easy/25-non-profitable-drugs.sql) |
 | 26 | [Pharmacy Analytics (Part 3) [CVS Health SQL Interview Question]](https://datalemur.com/questions/total-drugs-sales) | [Solution](Scripts/Easy/26-total-drugs-sales.sql) | Must Do
+| 27 | [Patient Support Analysis (Part 1) [UnitedHealth SQL Interview Question]](https://datalemur.com/questions/frequent-callers) | [Solution](Scripts/Easy/27-frequent-callers.sql) |
 
 
 #### Difficulty Level : Medium
