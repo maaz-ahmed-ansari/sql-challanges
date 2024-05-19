@@ -33,6 +33,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 25 | [Pharmacy Analytics (Part 2) [CVS Health SQL Interview Question]](https://datalemur.com/questions/non-profitable-drugs) | [Solution](Scripts/Easy/25-non-profitable-drugs.sql) |
 | 26 | [Pharmacy Analytics (Part 3) [CVS Health SQL Interview Question]](https://datalemur.com/questions/total-drugs-sales) | [Solution](Scripts/Easy/26-total-drugs-sales.sql) | Must Do
 | 27 | [Patient Support Analysis (Part 1) [UnitedHealth SQL Interview Question]](https://datalemur.com/questions/frequent-callers) | [Solution](Scripts/Easy/27-frequent-callers.sql) |
+| 28 | [Who Made Quota? [Oracle SQL Interview Question]](https://datalemur.com/questions/oracle-sales-quota) | [Solution](Scripts/Easy/28-oracle-sales-quota.sql) | Must Do
 
 
 #### Difficulty Level : Medium
