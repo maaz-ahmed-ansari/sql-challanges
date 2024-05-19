@@ -26,6 +26,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 18 | [Cities With Completed Trades [Robinhood SQL Interview Question]](https://datalemur.com/questions/completed-trades) | [Solution](Scripts/Easy/18-completed-trades.sql) | Must Do
 | 19 | [Average Review Ratings [Amazon SQL Interview Question]](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](Scripts/Easy/19-sql-avg-review-rating.sql) | 
 | 20 | [App Click-through Rate (CTR) [Facebook SQL Interview Question]](https://datalemur.com/questions/click-through-rate) | [Solution](Scripts/Easy/20-click-through-rate.sql) | 
+| 21 | [Second Day Confirmation [TikTok SQL Interview Question]](https://datalemur.com/questions/second-day-confirmation) | [Solution](Scripts/Easy/21-second-day-confirmation.sql) | 
 
 
 #### Difficulty Level : Medium
