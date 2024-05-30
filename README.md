@@ -35,6 +35,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 27 | [Patient Support Analysis (Part 1) [UnitedHealth SQL Interview Question]](https://datalemur.com/questions/frequent-callers) | [Solution](Scripts/Easy/27-frequent-callers.sql) |
 | 28 | [Who Made Quota? [Oracle SQL Interview Question]](https://datalemur.com/questions/oracle-sales-quota) | [Solution](Scripts/Easy/28-oracle-sales-quota.sql) | Must Do
 | 29 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [Solution](Scripts/Easy/29-percentage-of-users-attended-a-contest.sql) | Must Do
+| 30 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [Solution](Scripts/Easy/30-queries-quality-and-percentage.sql) | Must Do
 
 
 #### Difficulty Level : Medium
