@@ -60,3 +60,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 16 | [Patient Support Analysis (Part 2) [UnitedHealth SQL Interview Question]](https://datalemur.com/questions/uncategorized-calls-percentage) | [Solution](Scripts/Medium/16-uncategorized-calls-percentage.sql) |
 | 17 | [FAANG Stock Min-Max (Part 1) [Bloomberg SQL Interview Question]](https://datalemur.com/questions/sql-bloomberg-stock-min-max-1) | [Solution](Scripts/Medium/17-sql-bloomberg-stock-min-max-1.sql) | Must Do
 | 18 | [FAANG Stock Inter-Month Change (Part 2) [Bloomberg SQL Interview Question]](https://datalemur.com/questions/sql-bloomberg-stock-inter-month-percentage-2) | [Solution](Scripts/Medium/18-sql-bloomberg-stock-inter-month-percentage-2.sql) | Must Do
+| 19 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [Solution](Scripts/Medium/19-monthly-transactions-i.sql) |
