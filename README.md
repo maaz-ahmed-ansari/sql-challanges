@@ -1,6 +1,6 @@
 # Overview 
 
-This repository contains solution for the SQL challenges posted on [Leetcode](https://leetcode.com/), [DataLemur](https://datalemur.com?referralCode=6bIgM0Po) and [Interview Query](https://www.interviewquery.com/) websites. The solution queries are executed on the integrated PostgreSQL environment on the respective websites.
+This repository contains solution for the SQL challenges posted on [Leetcode](https://leetcode.com/), [DataLemur](https://datalemur.com?referralCode=6bIgM0Po), [Interview Query](https://www.interviewquery.com/) and [HackerRank](www.hackerrank.com) websites. The solution queries are executed on the integrated PostgreSQL environment on the respective websites.
 
 #### Difficulty Level : Easy
 
@@ -63,3 +63,9 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 19 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [Solution](Scripts/Medium/19-monthly-transactions-i.sql) |
 | 20 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | [Solution](Scripts/Medium/20-immediate-food-delivery-ii.sql) |
 | 21 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [Solution](Scripts/Medium/21-game-play-analysis-iv.sql) | Must Do
+
+#### Difficulty Level : Hard
+
+| ID | Challenge | Solution Script | Remark |
+|:------:|------------|:---------:|:---------:|
+| 1 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](Scripts/Hard/1-placements.sql) | Must Do
