@@ -62,3 +62,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 18 | [FAANG Stock Inter-Month Change (Part 2) [Bloomberg SQL Interview Question]](https://datalemur.com/questions/sql-bloomberg-stock-inter-month-percentage-2) | [Solution](Scripts/Medium/18-sql-bloomberg-stock-inter-month-percentage-2.sql) | Must Do
 | 19 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) | [Solution](Scripts/Medium/19-monthly-transactions-i.sql) |
 | 20 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) | [Solution](Scripts/Medium/20-immediate-food-delivery-ii.sql) |
+| 21 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [Solution](Scripts/Medium/21-game-play-analysis-iv.sql) | Must Do
