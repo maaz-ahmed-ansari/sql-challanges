@@ -36,6 +36,7 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 | 28 | [Who Made Quota? [Oracle SQL Interview Question]](https://datalemur.com/questions/oracle-sales-quota) | [Solution](Scripts/Easy/28-oracle-sales-quota.sql) | Must Do
 | 29 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest) | [Solution](Scripts/Easy/29-percentage-of-users-attended-a-contest.sql) | Must Do
 | 30 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [Solution](Scripts/Easy/30-queries-quality-and-percentage.sql) | Must Do
+| 31 | [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) | [Solution](Scripts/Easy/31-sales-analysis-iii.sql) |
 
 
 #### Difficulty Level : Medium
@@ -68,4 +69,4 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 
 | ID | Challenge | Solution Script | Remark |
 |:------:|------------|:---------:|:---------:|
-| 1 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](Scripts/Hard/1-placements.sql) | Must Do
+| 01 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](Scripts/Hard/1-placements.sql) | Must Do

@@ -12,3 +12,8 @@ WHERE
     p.salary < p2.salary
 ORDER BY
     p2.salary;
+
+"""
+Visualize your JOINs
+s.id | s.name | p.salary | f.friend_id | p2.salary
+"""
