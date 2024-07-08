@@ -69,4 +69,5 @@ This repository contains solution for the SQL challenges posted on [Leetcode](ht
 
 | ID | Challenge | Solution Script | Remark |
 |:------:|------------|:---------:|:---------:|
-| 01 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](Scripts/Hard/1-placements.sql) | Must Do
+| 01 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](Scripts/Hard/01-placements.sql) | Must Do
+| 02 | [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Solution](Scripts/Hard/02-department-top-three-salaries.sql) | Must Do
