@@ -46,3 +46,16 @@ WHERE
   rnk <=3
 ORDER BY
   total_orders DESC;
+
+
+-- Other way - simplified
+SELECT 
+  u.city,
+  COUNT(t.order_id) total_orders
+FROM trades t JOIN users u  
+  ON t.user_id = u.user_id
+WHERE
+  t.status = 'Completed'
+GROUP BY u.city
+ORDER BY 2 DESC
+LIMIT 3;
